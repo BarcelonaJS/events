@@ -1,3 +1,3 @@
-# BarcelonaJS
+# Event coordination
 
-Test
+The organizing team of BarcelonaJS uses this repo issues to coordinate all events.
