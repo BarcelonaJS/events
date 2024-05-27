@@ -8,12 +8,9 @@ assignees: ''
 
 ### Details
 
-- Where: <location name>
-- Address: <location address>
-- Sponsor: <sponsor name> / <sponsor website>
+- Sponsor: <sponsor issue>
 - When: yyyy-mm-dd
 - Hosts: @Host1, @Host2
-- Capacity: xx pax. (50 minimum)
 
 ### Agenda
 
